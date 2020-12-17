@@ -1,0 +1,47 @@
+* {
+    margin: 10px;
+    padding: 2px;
+    border-radius: 4px;
+    font-family: roboto;
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+}
+
+.hhh{
+    font-size: 42px; 
+    text-decoration: none; 
+    color: white;
+
+}
+
+body {
+    background-color: white;
+    text-align: center;
+}
+
+input {
+    color: black;
+    background-color: gray;
+}
+
+a {
+    text-decoration: none;
+}
+
+.table_main{
+    margin: auto;
+}
+
+.table_main td{
+     text-align: left;
+     padding: 15px
+}
+
+header{
+    background: black;
+}
+
+#dakdmaskd{
+    text-align: center;
+}
