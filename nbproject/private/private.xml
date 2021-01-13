@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/index.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/editProductForm2.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/Person.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/AbstractFacade.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/ProductFacade.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/PersonFacade.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/listProducts.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/listPersons.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/editPersonForm1.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/addPersonForm.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/buyProductForm.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/ProductFacadeImpl.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/editProductForm1.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/servlets/MyServlet.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/src/java/entity/Product.java</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/addProductForm.jsp</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/D:/SPTVR19-Java-WebLibrary/web/WEB-INF/editPersonForm2.jsp</file>
+        </group>
+    </open-files>
+</project-private>

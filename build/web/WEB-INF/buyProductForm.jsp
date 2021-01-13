@@ -1,7 +1,7 @@
 <%-- 
     Document   : takeBookForm
     Created on : 03.12.2020, 13:37:38
-    Author     : jvm
+    Author     : a
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -19,11 +19,10 @@
         <form action="buyProduct" method="POST">
             <select name="productId" multiple="true">
                 <c:forEach var="product" items="${listProducts}">
-                    <option value="${product.id}">${product.name} (${product.model}$) (${product.run}$) (${product.price}$)</option>
+                    <option value="${product.id}">${product.name} (${product.model} ${product.run}km ${product.price}$)</option>
                 </c:forEach>
             </select>
-            <br>
-            <select name="persId" multiple="true">
+            <br>            <select name="persId" multiple="true">
                 <c:forEach var="pers" items="${listPersons}">
                     <option value="${pers.id}">"${pers.name}" ${pers.surname} (${pers.money}$) </option>
                 </c:forEach>

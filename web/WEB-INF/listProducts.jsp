@@ -1,7 +1,7 @@
  <%-- 
     Document   : listBooks
     Created on : 03.12.2020, 13:07:53
-    Author     : jvm
+    Author     : a
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -18,7 +18,7 @@
         <h1>Товары:</h1>
         <ul name="productId" multiple="true">
             <c:forEach var="product" items="${listProducts}">
-                <li value="${product.id}">${product.name} (${product.model}$) (${product.run}$) (${product.price}$)</li>
+                <li value="${product.id}">${product.name} (${product.model} ${product.run}km (${product.price}$)</li>
             </c:forEach>
         </ul>
     </body>

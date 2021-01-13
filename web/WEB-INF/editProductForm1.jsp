@@ -1,7 +1,7 @@
  <%-- 
     Document   : listBooks
     Created on : 03.12.2020, 13:07:53
-    Author     : jvm
+    Author     : a
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -19,7 +19,7 @@
         <form action="editProductForm2" method="POST">
             <select name="productId" multiple="true">
                 <c:forEach var="product" items="${listProducts}">
-                    <option value="${product.id}">${product.name} (${product.model}$) (${product.run}$) (${product.price}$)</option>
+                    <option value="${product.id}">${product.name} (${product.model} ({product.run}km (${product.price})</option>
                 </c:forEach>
             </select>
             <input type="submit" value="Изменить">
